@@ -1,0 +1,16 @@
+[package]
+name = "descructible"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+pixels = "0.8"
+winit = "0.25"
+log = "0.4"
+winit_input_helper = "0.10"
+env_logger = "0.9"
+anyhow = "1"
+rand = "0.8"
+wgpu = "0.11"
+pollster = "0.2"
+bytemuck = "1"
